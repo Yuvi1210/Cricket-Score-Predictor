@@ -1,0 +1,11 @@
+Cricket is the most popular sports in India, and its popularity is growing all over the world at a tremendous rate. This  Sport begin from England in Sixteenth Century but gain its popularity in India after 1970’s as India as an Underdog Cricketing Nation lifted the World Cup for the first time in 1975. Cricket is played mainly in 3 formats across the Globe, they are : T20, ODI, and TEST Cricket. In these formats, T20 is the shortest format. After that comes the ODI format in which one match is played for almost one complete day. The TEST Cricket is the longest format. A TEST match is played for 5 days.
+
+There are 11 players in each side in a match, which consists of Batsmen, Bowlers, Wicketkeeper, and fielders. Score Prediction is quite common in Cricket from a very long time on the basis of current run rate, but calculation of Score Prediction on current situation is something new, which includes Number of wickets available and how the batsmen have performed in last few overs.
+
+In this paper, we explore the use of regression algorithms to predict the outcome of matches played in a T20 World Cup. Our objective is to showcase the effectiveness of these algorithms on real match data and evaluate their performance. We aim to identify the best regression algorithms that can accurately and efficiently predict the results of cricket matches. We used LINEAR, LASSO, RIDGE, RANDOMFOREST and KNN regression algorithms, as well as DECISION TREE and XGBREGRESSOR. Upon conducting a rapid outcome-based evaluation, it was evident that among the 7 algorithms employed, LASSO Regression exhibited the poorest performance, while the K-Nearest Regression algorithm outperformed all others based on the selected metrics.
+
+As part of the report's evaluation of model performance, various evaluation metrics were calculated. These included regression evaluation metrics such as Mean Squared Error (MSE) and Coefficient of Determination (R2 Score). In conclusion, the findings of this study demonstrate that the proposed machine learning model delivers significantly improved results compared to other algorithms documented in the literature. Thus, it presents a promising approach for predicting cricket scores.
+
+
+KEY WORDS:
+Cricket, T20, Regression algorithms, Evaluation metrics, Mean squared error, Coefficient of determination.
